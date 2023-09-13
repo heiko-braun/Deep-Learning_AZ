@@ -4,4 +4,4 @@ This code spaces host my examples and exercises the I have created as part the [
 
 ## Examples
 
-- (Logistic Regression using NNs)[https://github.com/heiko-braun/Deep-Learning_AZ/blob/main/notebooks/artificial_neural_network.ipynb]
+- [Logistic Regression using NNs](https://github.com/heiko-braun/Deep-Learning_AZ/blob/main/notebooks/artificial_neural_network.ipynb)
